@@ -1,0 +1,35 @@
+Suburb: Suburb
+
+Address: Address
+
+Rooms: Number of rooms
+
+Method: S - property sold; SP - property sold prior; PI - property passed in; PN - sold prior not disclosed; SN - sold not disclosed; NB - no bid; VB - vendor bid; W - withdrawn prior to auction; SA - sold after auction; SS - sold after auction price not disclosed. N/A - price or highest bid not available.
+
+realestate_agent: Real Estate Agent
+
+Date: Date sold
+
+Distance: Distance from CBD in Kilometres
+
+region_name: General Region (West, North West, North, North east ...etc)
+
+suburb_property_count: Number of properties that exist in the suburb.
+
+bedrooms: Number of Bedrooms
+
+bathroom: Number of Bathrooms
+
+car_parks: Number of carspots
+
+landsize: Land Size in Metres
+
+building_area: Building Size in Metres
+
+year_built: Year the house was built
+
+council_area: Governing council for the area
+
+lattitude: Self explanitory
+
+longtitude: Self explanitory
